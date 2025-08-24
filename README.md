@@ -7,7 +7,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSilvestreS&layout=compact&theme=dracula&border_radius=4.5"/>
 </p>
 
-[![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white)](https://www.credly.com/users/saulo-silvestre/)
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
